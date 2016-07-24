@@ -1,0 +1,1 @@
+select restaurant.uuid, name, address_uuid, lat, lng from core.restaurant, core.address where core.restaurant.address_uuid = core.address.uuid,

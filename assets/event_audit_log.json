@@ -1,0 +1,21 @@
+{
+  "more": true,
+  "items": [
+    {
+      "event": "assignDelivery-clicked",
+      "user_uuid": "db4cdb7d-02c5-489e-9a10-ae77b78db859",
+      "metadata": {
+        "delivery": "a80f53f1-401c-41d6-b9c5-594e110c03df"
+      },
+      "driver_uuid": null,
+      "modified_at": "2016-01-21T14:04:41.499301+00:00",
+      "deleted_at": null,
+      "uuid": "996fafc7-8c7a-4b46-883d-e12f27de4c90",
+      "fleet_controller_uuid": "6f24f5a6-9fb2-4bed-8de3-d890d156c0d5",
+      "timestamp": "2016-01-21T14:04:34.006000+00:00",
+      "username": null,
+      "created_at": "2016-01-21T14:04:41.499298+00:00"
+    }
+  ],
+  "cursor": "THE CURSOR"
+}

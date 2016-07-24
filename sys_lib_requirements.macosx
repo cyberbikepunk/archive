@@ -1,0 +1,3 @@
+# Requirements for weasyprint Python module
+brew install cairo
+brew install pango

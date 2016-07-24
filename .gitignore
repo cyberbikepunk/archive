@@ -1,0 +1,17 @@
+/odoo/poc/.ipynb_checkpoints
+/backend/secret_credentials.json
+/odoo/secret_credentials.json
+/.cache
+/tests/.cache
+/common/secrets_do_not_git_include
+*~
+*.pyc
+.DS_Store
+/sandbox/.ipynb_checkpoints
+.idea
+/sandbox/.ipynb_checkpoints
+.gradle
+.project
+.pydevproject
+
+/scripts/sandbox/.ipynb_checkpoints
